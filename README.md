@@ -46,7 +46,7 @@
 
 `<html>` 밑에는 `<head>`와 `<body>`가 있다.
 
-```
+```html
 <html>
   <head>
     <title>yunjee</title>
